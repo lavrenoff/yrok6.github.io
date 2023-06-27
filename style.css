@@ -1,32 +1,31 @@
 * {
     margin: 0;
-    padding: 0;    
+    padding: 0;
 }
 
-.top{
+.top {
     padding-bottom: 98px;
 }
 
-.top__top{
-    padding-top: 39px;    
+.top__top {
+    padding-top: 39px;
     padding-bottom: 39px;
 }
 
-.top__content{
-margin-top: 84px;
-margin-bottom: 162px;
+.top__content {
+    margin-top: 84px;
+    margin-bottom: 162px;
 }
 
-.title{
+.title {
     margin-bottom: 17px;
 }
 
-.top__content__buttons{
+.top__content__buttons {
     padding-bottom: 162px;
 }
 
-.paragraf{
+.paragraf {
     padding-top: 17px;
     padding-bottom: 37px;
 }
-
